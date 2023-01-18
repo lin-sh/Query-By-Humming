@@ -1,5 +1,5 @@
 # 简介
-#### 本仓库提供了.dll和.so两个依赖文件，他们是基于https://github.com/YuzhongHuangCS/SDHumming 生成的，可直接调用(.dat和.info是模型数据)。
+#### 本仓库提供了.dll(winodwss下)和.so(linux下)两个依赖文件，他们是基于https://github.com/YuzhongHuangCS/SDHumming 生成的，可直接调用(.dat和.info是模型数据)。
 # 代码示例
 #### python
 ```python
