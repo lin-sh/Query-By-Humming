@@ -1,4 +1,4 @@
-## English | [中文](https://github.com/lin-sh/Query-by-humming/blob/main/README-CN.md)
+## English | [中文](https://github.com/lin-sh/Query-by-humming/blob/main/README.md)
 # Introduction
 #### This repository provides two dependency files .dll (under winodwss) and .so (under linux). They are generated based on https://github.com/YuzhongHuangCS/SDHumming and can be called directly (.dat and .info are model data).
 # Code example
